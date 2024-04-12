@@ -22,7 +22,7 @@ e.g. A1 is the anode of the top LED, and C1 is the cathode of the top LED.
 | ----- | ------------------------------------------------------------------------ | ------------- |
 | color | The color of the LED body, or one of the special values "GYR" / "BCYR"\* | "red"         |
 
-\* GYR means Green-Yellow-Red. BCYR means Cyan-Blue-Yellow-Red
+\* GYR means Green-Yellow-Red. BCYR means Blue-Cyan-Yellow-Red
 
 ### Examples
 
